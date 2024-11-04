@@ -1,0 +1,9 @@
+.table-button {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 7px;
+    cursor: pointer;
+    text-align: center;
+}
